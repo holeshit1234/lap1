@@ -1,0 +1,8 @@
+D001|Tran Tuan Dat|false|12, Nguyen Dinh Chieu|P003|2022-3-15|null
+D002|John sena|false|34, Vu Van Tang|P003|2021-3-2|null
+D003|Joe Biden|true|54, bui vien|P001|2007-2-8|null
+D004|Donal Trump|true|45, New York|P001|2010-10-8|null
+D005|Houng Thanh|false|56, Dai Hoc Quoc Gia | P001|2014-6-2|null
+
+P001|Khoa Tim Mach|2005-5-23
+P003|Khoa Phu San|2001-7-19
